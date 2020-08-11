@@ -17,7 +17,5 @@
 
 ---
 
-<img align="left" alt="João Almeida's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Jalmeida1994&show_icons=true&hide_border=true" />
-
 [instagram]: https://www.instagram.com/jcfd_almeida
 [linkedin]: https://www.linkedin.com/in/joão-almeida-525476125
