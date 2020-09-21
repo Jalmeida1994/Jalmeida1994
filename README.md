@@ -32,6 +32,7 @@
 
 ## Connect with me 📫 :
 
+[<img align="left" alt="João Almeida | Portfolio" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][portfolio]
 [<img align="left" alt="João Almeida | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="João Almeida | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
@@ -40,5 +41,6 @@
 
 ---
 
+[portfolio]: https://jalmeida1994.github.io/Jalmeida.github.io/
 [instagram]: https://www.instagram.com/jcfd_almeida
 [linkedin]: https://www.linkedin.com/in/joão-almeida-525476125
