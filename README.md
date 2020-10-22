@@ -1,6 +1,6 @@
 ### Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm João Almeida!
 
-## I'm a Master's Student of Computer Science 📕 !
+## I'm a Master's Student of Computer Engineering 📕 !
 - :shipit: I'm a student who loves to mess with Data, DevOps, Cloud and building apps.
 - 🔭 I’m currently working on my thesis that consists of Blockchain and UML 🤔 
 - 🌱 I’m currently learning DevOps and Hyperledger Fabric
