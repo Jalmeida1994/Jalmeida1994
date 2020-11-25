@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on my thesis that consists of Blockchain and UML 🤔. I´m also in the middle of my internship.
 - 🌱 I’m currently learning DevOps
 - 🥅 2021 Goals: Finish my thesis (and therefore my master's) and begin start my DevOps journey professionally. Completing my app would also be cool!
-- ⚡ Fun fact: I love to draw and everything basketball
+- ⚡ Fun fact: I love to draw and everything basketball! Tolkien afficionado.
 
 ## ⚡ Technologies
 ![Java](https://img.shields.io/badge/-Java-E34A86?style=flat-square&logo=java)
