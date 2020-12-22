@@ -4,7 +4,7 @@
 - :shipit: I'm a student who loves to mess with Data, DevOps, Cloud and building apps.
 - 🔭 I’m currently working on my thesis that consists of Blockchain and UML 🤔. I'm also in the middle of my internship.
 - 🌱 I’m currently learning DevOps
-- 🥅 2021 Goals: Finish my thesis (and therefore my master's) and begin start my DevOps journey professionally. Completing my app would also be cool!
+- 🥅 2021 Goals: Finish my thesis (and therefore my master's) and start my DevOps journey professionally. Completing my app would also be cool!
 - ⚡ Fun fact: I love to draw and everything basketball! Tolkien afficionado.
 
 ## ⚡ Technologies
