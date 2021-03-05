@@ -10,7 +10,7 @@
 ## ⚡ Technologies
 ![Java](https://img.shields.io/badge/-Java-E34A86?style=flat-square&logo=java)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![Flutter](https://img.shields.io/badge/-Flutter-black?style=flat-square&logo=flutter)
+![Go](https://img.shields.io/badge/-Go-232F7E?style=flat-square&logo=go)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-005571?style=flat-square&logo=kubernetes)
 ![Spark](https://img.shields.io/badge/-Spark-00599C?style=flat-square&logo=Apache-Spark)
