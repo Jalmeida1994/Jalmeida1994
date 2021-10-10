@@ -1,7 +1,7 @@
 ### Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm João Almeida!
 
-## I'm a Master's Student of Computer Engineering 📕 !
-- :shipit: I'm a student who loves to mess with Data, DevOps, Cloud and building apps.
+## I'm a Site Reliability Engineer at MB.IO 📕 !
+- :shipit: I love to mess with Data, DevOps, Cloud and building apps.
 - 🌱 I’m currently learning DevSecOps methodologies.
 - 🥅 2022 Goals: Starting my PhD. Completing my app would also be cool!
 - ⚡ Fun fact: I love to draw and everything basketball! Tolkien afficionado.
