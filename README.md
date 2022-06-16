@@ -1,4 +1,4 @@
-### Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm João Almeida!
+### Hi there 👋, I'm João Almeida!
 
 ## I'm a Site Reliability Engineer at MB.io 📕 !
 - :shipit: I love to mess with Data, DevOps, Cloud and building apps.
