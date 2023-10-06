@@ -3,7 +3,7 @@
 ## I'm a Site Reliability Engineer at MB.io 📕 !
 - :shipit: I love to mess with Data, DevOps, Cloud and building apps.
 - 🌱 I’m currently learning DevSecOps methodologies.
-- 🥅 2022 Goals: Starting my PhD. Completing my app would also be cool!
+- 🥅 2023 Goals: Continuing my PhD. Completing my app would also be cool!
 - ⚡ Fun fact: I love to draw and everything basketball! Tolkien afficionado.
 
 ## ⚡ Technologies
